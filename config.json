@@ -1,0 +1,14 @@
+{
+  "domain":[
+    "www.cninct.com",
+    "cninct.com",
+    "pm.cninct.com",
+    "rmm.cninct.com",
+    "botw.cninct.com",
+    "work.cninct.com",
+    "weixin.cninct.com"
+  ],
+  "checkPath":"D:/Object/ssl",
+  "savePath":"./",
+  "SleepTime":0
+}
