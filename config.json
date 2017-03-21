@@ -1,12 +1,12 @@
 {
   "domain":[
-    "www.cninct.com",
-    "cninct.com",
-    "pm.cninct.com",
-    "rmm.cninct.com",
-    "botw.cninct.com",
-    "work.cninct.com",
-    "weixin.cninct.com"
+    "www.test.com",
+    "test.com",
+    "pm.test.com",
+    "rmm.test.com",
+    "botw.test.com",
+    "work.test.com",
+    "weixin.test.com"
   ],
   "checkPath":"D:/Object/ssl",
   "savePath":"./",
