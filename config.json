@@ -2,13 +2,10 @@
   "domain":[
     "www.test.com",
     "test.com",
-    "pm.test.com",
-    "rmm.test.com",
-    "botw.test.com",
-    "work.test.com",
-    "weixin.test.com"
+    "mail.test.com"
   ],
-  "checkPath":"D:/Object/ssl",
+  "checkPath":"./",
   "savePath":"./",
-  "SleepTime":0
+  "SleepTime":0,
+  "code":"123456"
 }
